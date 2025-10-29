@@ -1,7 +1,7 @@
 # Introduction to GitHub
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
-
+![example branch parameter.](https://github.com/mona/special-octo-eureka/actions/workflows/grading.yml/badge.svg?branch=my-workflow)
 Hey yesehake!
 
 Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
